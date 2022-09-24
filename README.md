@@ -21,6 +21,8 @@
             <h1>VIROKSON,  l'argent fait le bonheur</h1>
         </div>
   
+ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9432722002975549"
+     crossorigin="anonymous"></script>
 
     </section>
     
