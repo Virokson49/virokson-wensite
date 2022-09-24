@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>VIROKSON - Faite votre argent</title>
     <link rel="stylesheet" href="css/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/js/all.min.js"></script>
 </head>
 <body>
     <section class="top-page">
@@ -18,13 +19,15 @@
             </nav>
         </header>
         <div class="landinf-page">
-            <h1>VIROKSON,  l'argent fait le bonheur</h1>
+            <h1 class="big-title">VIROKSON, l'argent fait le bonheur</h1>
+            <a class="scroll-down" href="">Enora <i class=" fas fa-angle-down"></i></a>
         </div>
   
- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9432722002975549"
-     crossorigin="anonymous"></script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9432722002975549"
+        crossorigin="anonymous"></script>
 
     </section>
+    
     
 </body>
 </html>
